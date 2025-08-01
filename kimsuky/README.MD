@@ -1,5 +1,11 @@
 ### kimsuky
 
+▶Kimsuky Evolves Reconnaissance Capabilities in New Global Campaign.  
+https://www.sentinelone.com/labs/kimsuky-evolves-reconnaissance-capabilities-in-new-global-campaign/   
+
+▶Unveil the evolution of Kimsuky targeting Android devices with newly discovered mobile malware  (OCT 24 , 2022)  
+https://medium.com/s2wblog/unveil-the-evolution-of-kimsuky-targeting-android-devices-with-newly-discovered-mobile-malware-280dae5a650f  
+
 ▶Kimsuky  'Fake striker' APT campaign aimed at Korea (May 20 , 2019)
 https://blog.alyac.co.kr/2315
 

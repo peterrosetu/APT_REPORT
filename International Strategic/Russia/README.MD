@@ -1,3 +1,19 @@
+The GRU's Disruptive Playbook
+
+https://www.mandiant.com/resources/blog/gru-disruptive-playbook
+
+Hacked: Russian GRU officer wanted by the FBI, leader of the hacker group APT 28
+
+https://informnapalm.org/en/hacked-russian-gru-officer/
+
+Meet the FSB contractor: 0Day Technologies
+
+https://clement-briens.com/2023/04/01/meet-the-fsb-contractor-0day-technologies/
+
+Russia’s Cyber Operations Groups
+
+https://xorl.wordpress.com/2021/04/16/russias-cyber-operations-groups/
+
 ### Meddling in Elections - The Case of Russian Attackers
 
 ## RELATED

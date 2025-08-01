@@ -1,3 +1,11 @@
+Mapping DPRK Cyber Threat Groups to Government Organizations
+
+https://www.mandiant.com/resources/mapping-dprk-groups-to-government
+
+North Korea (DPRK) Cyber Operations Groups
+
+https://xorl.wordpress.com/2021/04/24/north-korea-dprk-cyber-operations-groups/
+
 ### APTNOTE
 
 # 2019-04-15
@@ -23,7 +31,7 @@ The hwp last all saved by "jeff"
 
 # 2019-04-19
 
-Test sample from korea
+Test sample from north korea
 
 ed76158adaa1e5d534320409015597de
 a3c0d3351f1ca27c1ba11de9762448a6
